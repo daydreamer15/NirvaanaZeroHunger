@@ -1,4 +1,4 @@
-# Nirvaana's: Zaero Hunger Drive
+# Nirvaana's: Zero Hunger Drive
 
 
 This project is an under progress full-stack application that serves as a bridge between the Hotel industry and NGOs (Non-Governmental Organizations), facilitating the efficient distribution of surplus food to those in need. This README will provide you with comprehensive information about the project's features.
